@@ -91,7 +91,7 @@ signInForm.addEventListener('submit', (e) => {
             signInStatus.textContent = 'Sign in successful';
             signInStatus.style.color = 'green';
             setTimeout(() => {
-                window.location.href = 'https://login2-d485e.web.app/'; // Redirect after successful sign-in
+                window.location.href = 'https://akerm1.github.io/test4/'; // Redirect after successful sign-in
             }, 1000); // Delay to ensure spinner is visible
         })
         .catch((error) => {
