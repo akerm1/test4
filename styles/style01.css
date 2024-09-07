@@ -1574,9 +1574,7 @@ a{
       flex-direction: column;
       z-index: 2;
     }
-    .contact-links{
-      display: none;
-    }
+  
     .section-title1{
       margin-top: 80px;
       margin-bottom: 4rem;
@@ -1624,9 +1622,7 @@ a{
     
     
     
-    .contact-links{
-      display: none;
-    }
+
     
     
     .main-header .searchBox {
